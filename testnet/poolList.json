@@ -13,6 +13,13 @@
 			"swapAddress": "neutron162mrau70ekq97jzccn6rve60xlr544wxltm7my4we7gtwznusc8surff39",
 			"bondingPeriods": [],
 			"isVerified": true
+		},
+		{
+			"tokenA": "ntrn",
+			"tokenB": "ELE",
+			"swapAddress": "neutron1mlrmlpm5nk74ve0r4qlesn76jpu4y4z2j8u8pl4uh7jmgk8tylqq5yaxyp",
+			"bondingPeriods": [],
+			"isVerified": true
 		}	
 	]
 }
