@@ -17,7 +17,9 @@
 			"tokenA": "ntrn",
 			"tokenB": "ATOM",
 			"swapAddress": "neutron1fwcfms98srssdgrlcke6sqnwqa0tlwsma280tkq44ajh5xzdvhtsuw89tt",
-			"bondingPeriods": [],
+			"bondingPeriods": [
+				{ "address": "neutron1d3c09n3jnlq5s9q02hs9jq8fyhtc97xl3vcc2qmtafm5h8j6qjasl4l3mq" }
+			],
 			"ruaId": "1",
 			"isParticles": true,
 			"isExternal": false,
