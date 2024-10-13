@@ -9,6 +9,7 @@
 			],
 			"ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
 			"ruaId": "0",
+			"ranking": "5",
 			"isParticles": true,
 			"isExternal": true,
 			"isVerified": true
@@ -21,6 +22,7 @@
 				{ "address": "neutron1d3c09n3jnlq5s9q02hs9jq8fyhtc97xl3vcc2qmtafm5h8j6qjasl4l3mq" }
 			],
 			"ruaId": "1",
+			"ranking": "5",
 			"isParticles": true,
 			"isExternal": false,
 			"isVerified": true
@@ -31,6 +33,7 @@
 			"swapAddress": "neutron133vldllh0h3nspvnz7n6qx7yf7zn7dltcmz6t9m5yfqkr0xx8ndqc556df",
 			"bondingPeriods": [],
 			"ruaId": "0",
+			"ranking": "5",
 			"isParticles": false,
 			"isExternal": true,
 			"isVerified": true
@@ -41,6 +44,7 @@
 			"swapAddress": "neutron10m8hreg9pyhkjlck94q2ummkt6fhs8fj0zt2t2z9y65fkaelznxstjzmx0",
 			"bondingPeriods": [],
 			"ruaId": "0",
+			"ranking": "5",
 			"isParticles": true,
 			"isExternal": true,
 			"isVerified": true
@@ -51,6 +55,7 @@
 			"swapAddress": "neutron149wklvdztcmvrvkk8d03wrzqxcszwxxrwn4wqrj27uwgsamtvfvqeyat9e",
 			"bondingPeriods": [],
 			"ruaId": "0",
+			"ranking": "5",
 			"isParticles": false,
 			"isExternal": true,
 			"isVerified": true
