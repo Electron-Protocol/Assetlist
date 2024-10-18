@@ -167,6 +167,28 @@
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/dATOM.svg",
       "symbol": "dATOM",
       "tokenPrettyName": "dATOM"
+    },
+    {
+      "chain": {
+        "chainId": "neutron-1",
+        "chainName": "neutron",
+        "chainPrettyName": "Neutron",
+        "gasPrice": {
+          "amount": "200000",
+          "denom": "untrn"
+        },
+        "isEVM": false,
+        "localDenom": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS"
+      },
+      "decimal": 6,
+      "denom": "factory/neutron1ndu2wvkrxtane8se2tr48gv7nsm46y5gcqjhux/MARS",
+      "fullName": "Mars Protocol token",
+      "isIBCCoin": false,
+      "isNativeCoin": true,
+      "logohash": "",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/mars-token.svg",
+      "symbol": "MARS",
+      "tokenPrettyName": "Mars Protocol token"
     }
   ]
 }
