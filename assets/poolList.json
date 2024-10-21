@@ -73,6 +73,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "NTRN",
+      "tokenB": "USDC",
+      "swapAddress": "neutron1za95d2atgah6vagfp3t2vxqg8ykdg06mexaflwz497lch38qeeusgmmnqz",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
