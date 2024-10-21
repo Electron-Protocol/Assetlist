@@ -113,6 +113,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "NTRN",
+      "tokenB": "ASTRO",
+      "swapAddress": "neutron1440qfuty74g7plkeuhaf6clj8my97khqzqafquy8evxpvlqwxucsxd4rwz",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
