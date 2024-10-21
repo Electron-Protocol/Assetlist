@@ -83,6 +83,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "MARS",
+      "tokenB": "NTRN",
+      "swapAddress": "neutron18wxr70vu6u9seqwtettjdty60d542vfruqklumtgp5hsp4n44jjqxjzf3a",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
