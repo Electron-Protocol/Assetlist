@@ -183,6 +183,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "tBTC",
+      "tokenB": "tETH",
+      "swapAddress": "neutron1c7ncgjzge8tynttxv93p03y95479lkkay4f22zm9gkjsy58x8l9qs6hff7",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
