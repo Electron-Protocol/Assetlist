@@ -163,6 +163,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "MARS",
+      "tokenB": "tBTC",
+      "swapAddress": "neutron16wvewxmaqw8vjw4hrndcsjx4vfl22wupv4hm8jtj9jk4lt4xhugqa7rn9g",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
