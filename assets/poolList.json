@@ -173,6 +173,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "USDC",
+      "tokenB": "MARS",
+      "swapAddress": "neutron1d0vfrxy4ysy3drh6ql27tk07n4r03w2tu0s33mxmegf4g42gr6ks430lcu",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
