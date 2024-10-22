@@ -153,6 +153,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "ASTRO",
+      "tokenB": "tBTC",
+      "swapAddress": "neutron1vz9wmdtl8yfm5ju45d6z9zdrtgyqun6wmsfhu7qlwnj6ml7q5v5sya338v",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
