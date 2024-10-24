@@ -193,6 +193,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "dATOM",
+      "tokenB": "ASTRO",
+      "swapAddress": "neutron1sut8r8cvzrl5uasy0s2qn83nr2e82rrhsfq5lhgnvchnhrkj4xxs2xts09",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
