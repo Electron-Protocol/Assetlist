@@ -213,6 +213,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "APOLLO",
+      "tokenB": "USDC",
+      "swapAddress": "neutron17n6hly9574nrjq3usjh774nf4ycx6agnapxzhj563drx7zy2d4xq5n3qp4",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
