@@ -211,6 +211,28 @@
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/astro.svg",
       "symbol": "ASTRO",
       "tokenPrettyName": "Astroport token"
+    },
+    {
+      "chain": {
+        "chainId": "neutron-1",
+        "chainName": "neutron",
+        "chainPrettyName": "Neutron",
+        "gasPrice": {
+          "amount": "200000",
+          "denom": "untrn"
+        },
+        "isEVM": false,
+        "localDenom": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO"
+      },
+      "decimal": 6,
+      "denom": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
+      "fullName": "Apollo DAO",
+      "isIBCCoin": false,
+      "isNativeCoin": true,
+      "logohash": "",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/neutron/images/apollo.svg",
+      "symbol": "APOLLO",
+      "tokenPrettyName": "Apollo DAO"
     }
   ]
 }
