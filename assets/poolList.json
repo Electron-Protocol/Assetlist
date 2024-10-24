@@ -203,6 +203,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "dATOM",
+      "tokenB": "tBTC",
+      "swapAddress": "neutron1y27ulny8znljzuw6c2qhqcyyyq2a3ekagc63a2jmjmk4ywf083lqd4ukky",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
