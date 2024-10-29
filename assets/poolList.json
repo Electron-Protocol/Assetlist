@@ -674,6 +674,17 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "ATOM",
+      "tokenB": "tBTC",
+      "swapAddress": "neutron1hv627g42rsjavur9p7pzs30w8ye05aul82r92hfgzvxjja2j5dtsspsju2",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "ranking": "1",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
