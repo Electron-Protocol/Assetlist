@@ -94,6 +94,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "NTRN",
+      "tokenB": "tBTC",
+      "swapAddress": "neutron1apslqws8pvv9epk2q0cphzxnd9qvfn5uwkhghfq8z0vzgawluaaq2939zw",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
