@@ -63,6 +63,17 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "tETH",
+      "tokenB": "USDC",
+      "swapAddress": "neutron169pakz7nyjqcn6dmkz3pkcuym44ftwntlfxe2sh950uq68rgzrxq7hq5dl",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "ranking": "1",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
