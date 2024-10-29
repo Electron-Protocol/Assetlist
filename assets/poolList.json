@@ -273,6 +273,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "tBTC",
+      "tokenB": "USDC",
+      "swapAddress": "neutron1tnuynmkkvltscquf0nk2tcruvud9q7dxq737drs0r8hh26tsqrwsr9xp66",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
