@@ -11,7 +11,7 @@
       ],
       "ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
       "ruaId": "0",
-      "ranking": "5",
+      "ranking": "8",
       "isParticles": true,
       "isExternal": true,
       "isVerified": true
@@ -26,7 +26,7 @@
         }
       ],
       "ruaId": "1",
-      "ranking": "5",
+      "ranking": "7",
       "isParticles": true,
       "isExternal": false,
       "isVerified": true
@@ -37,7 +37,7 @@
       "swapAddress": "neutron133vldllh0h3nspvnz7n6qx7yf7zn7dltcmz6t9m5yfqkr0xx8ndqc556df",
       "bondingPeriods": [],
       "ruaId": "0",
-      "ranking": "5",
+      "ranking": "2",
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
@@ -48,7 +48,7 @@
       "swapAddress": "neutron10m8hreg9pyhkjlck94q2ummkt6fhs8fj0zt2t2z9y65fkaelznxstjzmx0",
       "bondingPeriods": [],
       "ruaId": "0",
-      "ranking": "5",
+      "ranking": "1",
       "isParticles": true,
       "isExternal": true,
       "isVerified": true
@@ -59,238 +59,7 @@
       "swapAddress": "neutron149wklvdztcmvrvkk8d03wrzqxcszwxxrwn4wqrj27uwgsamtvfvqeyat9e",
       "bondingPeriods": [],
       "ruaId": "0",
-      "ranking": "5",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "USDC",
-      "swapAddress": "neutron1za95d2atgah6vagfp3t2vxqg8ykdg06mexaflwz497lch38qeeusgmmnqz",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "USDC",
-      "swapAddress": "neutron1za95d2atgah6vagfp3t2vxqg8ykdg06mexaflwz497lch38qeeusgmmnqz",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "MARS",
-      "tokenB": "NTRN",
-      "swapAddress": "neutron18wxr70vu6u9seqwtettjdty60d542vfruqklumtgp5hsp4n44jjqxjzf3a",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "MARS",
-      "tokenB": "NTRN",
-      "swapAddress": "neutron18wxr70vu6u9seqwtettjdty60d542vfruqklumtgp5hsp4n44jjqxjzf3a",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "ASTRO",
-      "swapAddress": "neutron1440qfuty74g7plkeuhaf6clj8my97khqzqafquy8evxpvlqwxucsxd4rwz",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "ASTRO",
-      "swapAddress": "neutron1440qfuty74g7plkeuhaf6clj8my97khqzqafquy8evxpvlqwxucsxd4rwz",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "USDC",
-      "swapAddress": "neutron1lwj4r626r8uudru3xnhqhk9t32wncnpmzvrlenx5ljark9sgr7lqwh3skg",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "USDC",
-      "swapAddress": "neutron1ssvp3wmdh68m97h8h3z0yu6pak30z8jmc4973e4eupka9aylna0sp0x7ak",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "ATOM",
-      "tokenB": "USDC",
-      "swapAddress": "neutron1u2nsxpmw0le7z2cxuw60m7haqwa64px9f05xgy36vyswe4gxltaqf0vyyp",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "ASTRO",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron1vz9wmdtl8yfm5ju45d6z9zdrtgyqun6wmsfhu7qlwnj6ml7q5v5sya338v",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "MARS",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron16wvewxmaqw8vjw4hrndcsjx4vfl22wupv4hm8jtj9jk4lt4xhugqa7rn9g",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "USDC",
-      "tokenB": "MARS",
-      "swapAddress": "neutron1d0vfrxy4ysy3drh6ql27tk07n4r03w2tu0s33mxmegf4g42gr6ks430lcu",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "tBTC",
-      "tokenB": "tETH",
-      "swapAddress": "neutron1c7ncgjzge8tynttxv93p03y95479lkkay4f22zm9gkjsy58x8l9qs6hff7",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "dATOM",
-      "tokenB": "ASTRO",
-      "swapAddress": "neutron1sut8r8cvzrl5uasy0s2qn83nr2e82rrhsfq5lhgnvchnhrkj4xxs2xts09",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "dATOM",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron1y27ulny8znljzuw6c2qhqcyyyq2a3ekagc63a2jmjmk4ywf083lqd4ukky",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "APOLLO",
-      "tokenB": "USDC",
-      "swapAddress": "neutron17n6hly9574nrjq3usjh774nf4ycx6agnapxzhj563drx7zy2d4xq5n3qp4",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron1kzhxzzfx3m3qkqd7f07hscll3p7x57zg7ku7t4884rf3y6fucxhsqjcqv2",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron1kzhxzzfx3m3qkqd7f07hscll3p7x57zg7ku7t4884rf3y6fucxhsqjcqv2",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron1kzhxzzfx3m3qkqd7f07hscll3p7x57zg7ku7t4884rf3y6fucxhsqjcqv2",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron1kzhxzzfx3m3qkqd7f07hscll3p7x57zg7ku7t4884rf3y6fucxhsqjcqv2",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron14zz2v28f2066dmsdvw709rts28s73xqv8j0tkq9nxzptce9rzrvqe2l2g6",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "tBTC",
-      "tokenB": "USDC",
-      "swapAddress": "neutron1tnuynmkkvltscquf0nk2tcruvud9q7dxq737drs0r8hh26tsqrwsr9xp66",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron15spzu8m2asjee5fr5urxpvzwthdwz9s8r9xhyx6kr33rr3kf6wnsjq4hgl",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "rank": "0",
+      "ranking": "0",
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
