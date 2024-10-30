@@ -117,6 +117,17 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "NTRN",
+      "tokenB": "ATOM",
+      "swapAddress": "neutron1vfs6wlmlpgs3ck8fpk6hut7vzyh2kzr6jce0csnfeg65r7y86e7s0zet6t",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "ranking": "1",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
