@@ -52,50 +52,6 @@
       "isParticles": true,
       "isExternal": true,
       "isVerified": true
-    },
-    {
-      "tokenA": "NTRN",
-      "tokenB": "tBTC",
-      "swapAddress": "neutron18m7kgaektw8wjqj0yqegzc09eywsw3ks5updf66st8tnp0cjyztqpsaztn",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "ranking": "1",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "ATOM",
-      "tokenB": "USDC",
-      "swapAddress": "neutron14mzc69dgdyp6f4re8742qteckhtj82kz48d7cm2pevx2kgyjtphq4vfcrx",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "ranking": "1",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "ATOM",
-      "tokenB": "USDC",
-      "swapAddress": "neutron14mzc69dgdyp6f4re8742qteckhtj82kz48d7cm2pevx2kgyjtphq4vfcrx",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "ranking": "1",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
-    },
-    {
-      "tokenA": "tBTC",
-      "tokenB": "tETH",
-      "swapAddress": "neutron1tqlma5jpmjt60hy3f4px3rpr4p5cr7fvh6khy04dtz7t6k3f722qt5xy8p",
-      "bondingPeriods": [],
-      "ruaId": "",
-      "ranking": "1",
-      "isParticles": false,
-      "isExternal": true,
-      "isVerified": true
     }
   ]
 }
