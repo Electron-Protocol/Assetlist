@@ -63,6 +63,17 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "TIA",
+      "tokenB": "NTRN",
+      "swapAddress": "neutron1wyy0muyy7z92qct74vprc2n99mapzg8e5pfydcwlsgx6cr32pdusrh6wj5",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "ranking": "1",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
