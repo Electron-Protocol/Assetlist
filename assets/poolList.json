@@ -3,12 +3,8 @@
    {
       "tokenA": "ntrn",
       "tokenB": "USDC",
-      "swapAddress": "neutron18n650fcfjcz0drdcs7gserea0gzxhqa86ymsdjgzs6vdyvjcl54qmz6ypg",
-      "bondingPeriods": [
-        {
-          "address": "neutron13jrflglkujjjzhx7f9m3wq74p329nm2qwj3we2y4jn7h6z58xtesda206l"
-        }
-      ],
+      "swapAddress": "neutron12aajjjvpmhfcks8e4agfjncm2hx3e8r5h0pjgx2h3r5mvagl6f2surchft",
+      "bondingPeriods": [],
       "ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
       "ruaId": "0",
       "ranking": "9",
