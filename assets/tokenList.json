@@ -29,6 +29,28 @@
       "isIBCCoin": false,
       "decimal": 6,
       "logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/ntrn.png"
+    },
+    {
+      "chain": {
+        "chainId": "neutron-1",
+        "chainName": "neutron",
+        "chainPrettyName": "Neutron",
+        "gasPrice": {
+          "amount": "200000",
+          "denom": "untrn"
+        },
+        "isEVM": false,
+        "localDenom": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81"
+      },
+      "decimal": 6,
+      "denom": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
+      "fullName": "USD Coin",
+      "isIBCCoin": true,
+      "isNativeCoin": false,
+      "logohash": "",
+      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/_non-cosmos/ethereum/images/usdc.svg",
+      "symbol": "USDC",
+      "tokenPrettyName": "USD Coin"
     }
   ]
 }
