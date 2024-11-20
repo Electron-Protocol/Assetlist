@@ -1,6 +1,6 @@
 {
   "pools": [
-   {
+    {
       "tokenA": "ntrn",
       "tokenB": "USDC",
       "swapAddress": "neutron12aajjjvpmhfcks8e4agfjncm2hx3e8r5h0pjgx2h3r5mvagl6f2surchft",
@@ -9,6 +9,17 @@
       "ruaId": "0",
       "ranking": "9",
       "isParticles": true,
+      "isExternal": true,
+      "isVerified": true
+    },
+    {
+      "tokenA": "NTRN",
+      "tokenB": "ATOM",
+      "swapAddress": "neutron1k4dtaaktr0rwlgzcv0djyunn02v720eqmn84tr5vvpfc2def9aqqqxv7nn",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "ranking": "1",
+      "isParticles": false,
       "isExternal": true,
       "isVerified": true
     }
