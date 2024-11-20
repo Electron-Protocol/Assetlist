@@ -7,7 +7,7 @@
       "bondingPeriods": [],
       "ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
       "ruaId": "0",
-      "ranking": "9",
+      "ranking": "1",
       "isParticles": true,
       "isExternal": true,
       "isVerified": true
@@ -19,7 +19,7 @@
       "bondingPeriods": [],
       "ruaId": "",
       "ranking": "1",
-      "isParticles": false,
+      "isParticles": true,
       "isExternal": true,
       "isVerified": true
     }
