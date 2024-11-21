@@ -73,6 +73,28 @@
       "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.svg",
       "symbol": "ATOM",
       "tokenPrettyName": "IBC atom"
+     },
+     {
+      "chain": {
+        "chainId": "neutron-1",
+        "chainName": "neutron",
+        "chainPrettyName": "Neutron",
+        "gasPrice": {
+          "amount": "200000",
+          "denom": "untrn"
+        },
+        "isEVM": false,
+        "localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/TEST841"
+      },
+      "decimal": 6,
+      "denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/TEST841",
+      "fullName": "Particle",
+      "isIBCCoin": false,
+      "isNativeCoin": true,
+      "logohash": "",
+      "logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/particle.png",
+      "symbol": "PARTICLE",
+      "tokenPrettyName": "Particle"
     }
   ]
 }
