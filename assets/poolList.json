@@ -4,7 +4,11 @@
       "tokenA": "ntrn",
       "tokenB": "USDC",
       "swapAddress": "neutron12aajjjvpmhfcks8e4agfjncm2hx3e8r5h0pjgx2h3r5mvagl6f2surchft",
-      "bondingPeriods": [],
+     "bondingPeriods": [
+        {
+          "address": "neutron1vg6k0kalfyrs9jzrhmljycxeyuv2ujf4f42lr26vwnt8cu7p3m0qfgr327"
+        }
+      ],
       "ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
       "ruaId": "0",
       "ranking": "9",
@@ -16,7 +20,11 @@
       "tokenA": "NTRN",
       "tokenB": "ATOM",
       "swapAddress": "neutron1k4dtaaktr0rwlgzcv0djyunn02v720eqmn84tr5vvpfc2def9aqqqxv7nn",
-      "bondingPeriods": [],
+      "bondingPeriods": [
+        {
+          "address": "neutron1mtsjmh8t8w2cvk2904xk8v39zu732nxxpys3tzjxlm50hpxs7jnqa9f2hv"
+        }
+      ],
       "ruaId": "",
       "ranking": "9",
       "isParticles": true,
